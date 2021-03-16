@@ -1,6 +1,6 @@
 /***** Deliverable 1 *****/
 const header = document.querySelector("#header")
-console.log("Here's your header:", header)
+console.log(header.innerHTML)
 
 
 /***** Deliverable 2 *****/
